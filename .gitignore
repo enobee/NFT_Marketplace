@@ -2,6 +2,8 @@
 
 
 .secret
+.secret1
+.secret3
 
 node_modules
 
@@ -28,3 +30,15 @@ artifacts
 
 #vscode
 .vscode
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
